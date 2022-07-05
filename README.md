@@ -8,7 +8,7 @@ It allows customers to view the menu and place an order, and an admin interface 
 
 ## Team Members
 - **Akshata Gunapache**
-- **Ananya Singhla**
+- **Ananya Singla**
 - **Ankitha K**
 
 ## Conclusion
